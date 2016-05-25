@@ -7,7 +7,7 @@ Our first meeting was mainly an introduction to the studio coupled with a number
 
 * DOWNLOAD AND INSTALL SOFTWARE TOOLS
 
-I introduced GitHub, a distributed content versioning system. We'll be using GitHub for all studio-related content including administrative things like the [SYLLABUS](https://github.com/IIT-ARCH-ROBOT/ADMINISTRATIVE/SYLLABUS). 
+I introduced GitHub, a distributed content versioning system. We'll be using GitHub for all studio-related content including administrative things like the [SYLLABUS](https://github.com/IIT-ARCH-ROBOT/SYLLABUS). 
 
 * GET COMFORATBLE WITH GITHUB AND SET UP A BLOG
 
