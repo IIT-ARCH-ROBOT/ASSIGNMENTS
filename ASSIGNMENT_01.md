@@ -24,6 +24,10 @@ The first *research* assignment is to answer some questions using images and wor
 
 Blog posts should be formatted using markdown. You can find a guide here: https://guides.github.com/features/mastering-markdown/ 
 
+__PURCHASE THE ADAFRUIT KIT__ :dollar:
+
+DO THIS NOW! Here's the link to the wishlist: http://www.adafruit.com/wishlists/403729 Bring it to class next week.
+
 __SHOP AUTHORIZATION__ :hammer:
 
 I'm still waiting to hear from John Kriegshauser about the general shop authorization. It may not be on a day we meet for studio. Stay tuned...
@@ -31,3 +35,7 @@ I'm still waiting to hear from John Kriegshauser about the general shop authoriz
 __LIBRARY RESEARCH CLASS__ :books:
 
 I'm still waiting to hear from Kim Soss about the library research class. It may not be on a day we meet for studio. Stay tuned...
+
+__I THINK THAT'S IT FOR NOW__ :clap:
+
+I'll see you next week on TUESDAY @ 3pm in Crown 001. We will be meeting TR 3-6 from now on...Please email me with any questions.
