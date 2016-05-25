@@ -1,7 +1,7 @@
 # ASSIGNMENT 01
 ## DUE TUESDAY MAY 31 2016
 
-### DISCUSSION
+### TO-DO
 
 Our first meeting was mainly an introduction to the studio coupled with a number of administrative tasks. Here's a TO-DO list for next week:
 
