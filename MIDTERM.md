@@ -12,3 +12,4 @@ All of these materials should be put in a folder labeled with your FIRSTNAME_LAS
 Tentative Schedule for Midterm Presentations
 
 __THURSDAY, JUNE 23 9am - 6pm__
+Crown Hall 001
