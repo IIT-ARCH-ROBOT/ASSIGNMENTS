@@ -8,3 +8,7 @@ The Midterm Presentation is comprised of three parts:
 * A bill of materials and a schedule to organize your efforts over the next four weeks. This should also be in letter-sized PDF format.
 
 All of these materials should be put in a folder labeled with your FIRSTNAME_LASTNAME that you create in the ASSIGNMENT-DROPBOX repository.
+
+Tentative Schedule for Midterm Presentations
+
+__THURSDAY, JUNE 23 9am - 6pm__
